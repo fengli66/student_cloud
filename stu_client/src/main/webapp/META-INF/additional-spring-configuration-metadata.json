@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "server.jsp-servlet.init-parameters.development",
+      "type": "java.lang.String",
+      "description": "Description for server.jsp-servlet.init-parameters.development."
+  }
+] }
